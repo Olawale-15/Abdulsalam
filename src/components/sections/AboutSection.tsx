@@ -66,7 +66,7 @@ export default function AboutSection() {
             className="space-y-6"
           >
             <p className="text-base leading-relaxed text-slate-600 dark:text-slate-300">
-              I'm a software engineer with five years of experience building backend systems, REST APIs,
+              I&apos;m a software engineer with hands-on experience building backend systems, REST APIs,
               business platforms, and practical software solutions across education, e-commerce,
               accommodation, logistics, and applied machine learning.
             </p>

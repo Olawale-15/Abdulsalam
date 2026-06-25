@@ -86,7 +86,7 @@ export default function ContactSection() {
           className="mb-14 text-center"
         >
           <span className="section-label">Contact</span>
-          <h2 className="section-title">Let's build scalable, meaningful software.</h2>
+          <h2 className="section-title">Let&apos;s build scalable, meaningful software.</h2>
           <p className="section-subtitle mx-auto">
             Whether you have a project in mind, a role to fill, or just want to connect — my inbox is open.
           </p>
@@ -101,7 +101,7 @@ export default function ContactSection() {
             className="lg:col-span-2 flex flex-col gap-4"
           >
             <p className="text-sm leading-relaxed text-slate-500 dark:text-slate-400">
-              I'm currently available for backend engineering roles, API development contracts, and
+              I&apos;m currently available for backend engineering roles, API development contracts, and
               full-stack freelance work. Remote opportunities are welcome.
             </p>
 
@@ -161,7 +161,7 @@ export default function ContactSection() {
                     Message sent!
                   </h3>
                   <p className="mt-2 text-sm text-slate-500 dark:text-slate-400">
-                    Thanks for reaching out. I'll get back to you as soon as I can.
+                    Thanks for reaching out. I&apos;ll get back to you as soon as I can.
                   </p>
                 </div>
               ) : (
@@ -187,7 +187,7 @@ export default function ContactSection() {
                     <label htmlFor="subject" className="mb-1.5 block text-xs font-semibold uppercase tracking-wide text-slate-500 dark:text-slate-400">
                       Subject
                     </label>
-                    <input id="subject" name="subject" type="text" required placeholder="What's this about?"
+                    <input id="subject" name="subject" type="text" required placeholder="What&apos;s this about?"
                       value={form.subject} onChange={handleChange} className="input-field" />
                   </div>
 

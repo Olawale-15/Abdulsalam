@@ -33,7 +33,7 @@ export default function ProjectsSection() {
           className="mb-12 text-center"
         >
           <span className="section-label">Portfolio</span>
-          <h2 className="section-title">Projects I've shipped.</h2>
+          <h2 className="section-title">Projects I&apos;ve shipped.</h2>
           <p className="section-subtitle mx-auto">
             A selection of systems, platforms, and applications built across different domains and
             problem spaces.
@@ -80,13 +80,13 @@ export default function ProjectsSection() {
           className="mt-14 rounded-2xl border border-brand-100 bg-gradient-to-r from-brand-50 to-blue-50 p-8 text-center dark:border-brand-800/30 dark:from-brand-900/20 dark:to-blue-900/10"
         >
           <p className="font-display text-lg font-semibold text-slate-800 dark:text-white">
-            Have a project or idea you'd like to build?
+            Have a project or idea you&apos;d like to build?
           </p>
           <p className="mt-1.5 text-sm text-slate-500 dark:text-slate-400">
-            I'm available for freelance work and open to discussing new opportunities.
+            I&apos;m available for freelance work and open to discussing new opportunities.
           </p>
           <a href="#contact" className="btn-primary mt-5 inline-flex">
-            Let's talk about it
+            Let&apos;s talk about it
           </a>
         </motion.div>
       </div>
