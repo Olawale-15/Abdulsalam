@@ -92,7 +92,7 @@ export default function WhyMeSection() {
             Ready to build something great?
           </p>
           <p className="text-sm text-slate-400">
-            I'm available for backend engineering roles, freelance API projects, and full-stack
+            I&apos;m available for backend engineering roles, freelance API projects, and full-stack
             contracts.
           </p>
           <a href="#contact" className="btn-primary mt-2">
